@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Tang-1.cpp">
+    <ClCompile Include="readCSVFile.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="readCSVFile.cpp">
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tang-Individual.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

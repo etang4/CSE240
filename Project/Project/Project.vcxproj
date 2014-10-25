@@ -65,8 +65,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="readCSVFile.cpp" />
-    <ClCompile Include="Tang-1.cpp" />
+    <ClCompile Include="Tang-Individual.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="game.csv" />
