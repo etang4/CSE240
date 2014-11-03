@@ -1,19 +1,20 @@
 Name,Graphic,Gameplay,Storyline
 The Oregon Trail,7,9,7
+The Oregon Trail,7,6.5,7
 Hunt the Wumpus,6,4,8
-Pong,7,5,4
+Pong,7.7,5,4
+The Oregon Trail,2,9,10
 Breakout,4,3,6
 Space Invaders,7,8,6
 Adventure,9,9,2
-Asteroids,1,10,6
-Battlezone,1,6,7
+Asteroids,1.5,10,6
+Battlezone,9,6,7
 Defender,10,6,5
 Pac-Man,7,2,9
-Zork,3,9,8
+Zork,2.5,9,8
 Castle Wolfenstein,5,5,4
 Centipede,2,3,5
 Donkey Kong,3,9,4
-Frogger,3,8,8
 Galaga,4,9,8
 Tempest,2,3,5
 Wizardry: Proving Grounds of the Mad Overlord,4,7,7
@@ -52,6 +53,7 @@ Marathon,3,4,2
 SimCity 2000,8,4,6
 Chrono Trigger,6,6,2
 Quake,7,7,6
+Final Fantasy VII,8.5,10,10
 Resident Evil,4,10,1
 Super Mario 64,2,8,8
 Tomb Raider,5,5,9
@@ -63,6 +65,7 @@ Final Fantasy Tactics,2,2,2
 Grim Fandango,1,4,6
 Metal Gear Solid,6,4,6
 StarCraft,4,1,8
+Final Fantasy VII,10,10,10
 Thief: The Dark Project,10,6,1
 EverQuest,10,1,7
 Silent Hill,3,2,6
